@@ -1,28 +1,30 @@
 {
-  "Info":[
-    {
-      "ID": "0",
-      "Color": "Green",
-      "Number": "0",
-      "Description": "Only No. that's green"
-    },
-    {
-      "ID": "1",
-      "Color": "Black",
-      "Number": "5",
-      "Description": "Number is in black 5"
-    },
-    {
-      "ID": "2",
-      "Color": "Red",
-      "Number": "32",
-      "Description": "Number is in Red 32"
-    },
-       {
-      "ID": "3",
-      "Color": "Red",
-      "Number": "19",
-      "Description": "Number is in Red 19"
-    }
-  ]
+   "betTime":20,
+   "gameDate":{
+
+      "09-09-2022":[
+      {
+         "gameID":1,
+         "time":"11:32",
+         "result":"13"
+      },
+      {
+         "gameID":2,
+         "time":"01:32",
+         "result":"0"
+      }
+     ],
+      "19-10-2022":[
+      {
+         "gameID":1,
+         "time":"1:32",
+         "result":"3"
+      },
+      {
+         "gameID":2,
+         "time":"4:32",
+         "result":"00"
+      }
+     ]
+  }
 }
