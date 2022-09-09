@@ -10,13 +10,13 @@
 		       {
 			  "gameID": "10032",
 			  "time": "11:32",
-			  "result": "33"
+			  "result": 33
 		       },
 		       "game2": 
 		       {
 			  "gameID": "10065",
 			  "time": "11:32",
-			  "result": "1"
+			  "result": 1
 		       }
 		    }
 		 ],
@@ -27,13 +27,13 @@
 		       {
 			  "gameID": "10522",
 			  "time": "04:12",
-			  "result": "0"
+			  "result": 0
 		       },
 		       "game2": 
 		       {
 			  "gameID": "12465",
 			  "time": "02:52",
-			  "result": "27"
+			  "result": 27
 		       }
 			      }
 	       ]
