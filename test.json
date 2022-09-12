@@ -17,6 +17,18 @@
 			  "gameID": "10065",
 			  "time": "11:32",
 			  "result": 1
+		       },
+			"game3": 
+		       {
+			  "gameID": "10066",
+			  "time": "11:52",
+			  "result": 14
+		       },
+			"game4": 
+		       {
+			  "gameID": "10442",
+			  "time": "12:12",
+			  "result": 32
 		       }
 		    }
 		 ],
@@ -34,7 +46,50 @@
 			  "gameID": "12465",
 			  "time": "02:52",
 			  "result": 27
-		       }
+		       },
+			"game3": 
+		       {
+			  "gameID": "10423",
+			  "time": "11:42",
+			  "result": 5
+		       },
+			"game4": 
+		       {
+			  "gameID": "10334",
+			  "time": "01:12",
+			  "result": 21
+		       }    
+			    
+			      }
+	       ],
+	      "23-10-2022": 
+		 [
+		    {
+		       "game1":
+		       {
+			  "gameID": "10322",
+			  "time": "02:12",
+			  "result": 3
+		       },
+		       "game2": 
+		       {
+			  "gameID": "14465",
+			  "time": "05:52",
+			  "result": 5
+		       },
+			"game3": 
+		       {
+			  "gameID": "11333",
+			  "time": "07:42",
+			  "result": 15
+		       },
+			"game4": 
+		       {
+			  "gameID": "14431",
+			  "time": "09:59",
+			  "result": 7
+		       }    
+			    
 			      }
 	       ]
     }
