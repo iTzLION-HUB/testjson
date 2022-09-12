@@ -15,19 +15,19 @@
 		       "game2": 
 		       {
 			  "gameID": "10065",
-			  "time": "11:32",
+			  "time": "11:52",
 			  "result": 1
 		       },
 			"game3": 
 		       {
 			  "gameID": "10066",
-			  "time": "11:52",
+			  "time": "12:12",
 			  "result": 14
 		       },
 			"game4": 
 		       {
 			  "gameID": "10442",
-			  "time": "12:12",
+			  "time": "12:32",
 			  "result": 32
 		       }
 		    }
@@ -38,25 +38,25 @@
 		       "game1":
 		       {
 			  "gameID": "10522",
-			  "time": "04:12",
+			  "time": "12:42",
 			  "result": 0
 		       },
 		       "game2": 
 		       {
 			  "gameID": "12465",
-			  "time": "02:52",
+			  "time": "12:52",
 			  "result": 27
 		       },
 			"game3": 
 		       {
 			  "gameID": "10423",
-			  "time": "11:42",
+			  "time": "01:02",
 			  "result": 5
 		       },
 			"game4": 
 		       {
 			  "gameID": "10334",
-			  "time": "01:12",
+			  "time": "01:22",
 			  "result": 21
 		       }    
 			    
@@ -68,25 +68,25 @@
 		       "game1":
 		       {
 			  "gameID": "10322",
-			  "time": "02:12",
+			  "time": "02:02",
 			  "result": 3
 		       },
 		       "game2": 
 		       {
 			  "gameID": "14465",
-			  "time": "05:52",
+			  "time": "02:24",
 			  "result": 5
 		       },
 			"game3": 
 		       {
 			  "gameID": "11333",
-			  "time": "07:42",
+			  "time": "02:37",
 			  "result": 15
 		       },
 			"game4": 
 		       {
 			  "gameID": "14431",
-			  "time": "09:59",
+			  "time": "02:59",
 			  "result": 7
 		       }    
 			    
