@@ -1,97 +1,107 @@
 {
 	"betTime": 90,
-	"gameDate": 
-   [
-      {
-		"09-08-2022": 
-		 [
-		    {
-		       "game1": 
-		       {
-			  "gameID": "10032",
-			  "time": "11:32",
-			  "result": 33
-		       },
-		       "game2": 
-		       {
-			  "gameID": "10065",
-			  "time": "11:52",
-			  "result": 1
-		       },
-			"game3": 
-		       {
-			  "gameID": "10066",
-			  "time": "12:12",
-			  "result": 14
-		       },
-			"game4": 
-		       {
-			  "gameID": "10442",
-			  "time": "12:32",
-			  "result": 32
-		       }
-		    }
-		 ],
-		"24-10-2022": 
-		 [
-		    {
-		       "game1":
-		       {
-			  "gameID": "10522",
-			  "time": "12:42",
-			  "result": 0
-		       },
-		       "game2": 
-		       {
-			  "gameID": "12465",
-			  "time": "12:52",
-			  "result": 27
-		       },
-			"game3": 
-		       {
-			  "gameID": "10423",
-			  "time": "01:02",
-			  "result": 5
-		       },
-			"game4": 
-		       {
-			  "gameID": "10334",
-			  "time": "01:22",
-			  "result": 21
-		       }    
-			    
-			      }
-	       ],
-	      "23-10-2022": 
-		 [
-		    {
-		       "game1":
-		       {
-			  "gameID": "10322",
-			  "time": "02:02",
-			  "result": 3
-		       },
-		       "game2": 
-		       {
-			  "gameID": "14465",
-			  "time": "02:24",
-			  "result": 5
-		       },
-			"game3": 
-		       {
-			  "gameID": "11333",
-			  "time": "02:37",
-			  "result": 15
-		       },
-			"game4": 
-		       {
-			  "gameID": "14431",
-			  "time": "02:59",
-			  "result": 7
-		       }    
-			    
-			      }
-	       ]
-    }
-  ]
+	"gameDate": [{
+		"09-08-2022": [{
+			"game1": {
+				"gameID": "10032",
+				"time": "11:32",
+				"result": 33
+			},
+			"game2": {
+				"gameID": "10065",
+				"time": "11:52",
+				"result": 1
+			},
+			"game3": {
+				"gameID": "10066",
+				"time": "12:12",
+				"result": 14
+			},
+			"game4": {
+				"gameID": "10442",
+				"time": "12:32",
+				"result": 32
+			},
+			"game5": {
+				"gameID": "10322",
+				"time": "02:02",
+				"result": 3
+			},
+			"game6": {
+				"gameID": "14465",
+				"time": "02:24",
+				"result": 5
+			},
+			"game7": {
+				"gameID": "11333",
+				"time": "02:37",
+				"result": 15
+			},
+			"game8": {
+				"gameID": "14431",
+				"time": "02:59",
+				"result": 7
+			},
+			"game9": {
+				"gameID": "10522",
+				"time": "12:42",
+				"result": 0
+			},
+			"game10": {
+				"gameID": "12465",
+				"time": "12:52",
+				"result": 27
+			},
+			"game11": {
+				"gameID": "10423",
+				"time": "01:02",
+				"result": 5
+			},
+			"game12": {
+				"gameID": "10334",
+				"time": "01:22",
+				"result": 21
+			},
+			"game13": {
+				"gameID": "10032",
+				"time": "11:32",
+				"result": 33
+			},
+			"game14": {
+				"gameID": "10065",
+				"time": "11:52",
+				"result": 1
+			},
+			"game15": {
+				"gameID": "10066",
+				"time": "12:12",
+				"result": 14
+			},
+			"game16": {
+				"gameID": "10442",
+				"time": "12:32",
+				"result": 32
+			},
+			"game17": {
+				"gameID": "10322",
+				"time": "02:02",
+				"result": 3
+			},
+			"game18": {
+				"gameID": "14465",
+				"time": "02:24",
+				"result": 5
+			},
+			"game19": {
+				"gameID": "11333",
+				"time": "02:37",
+				"result": 15
+			},
+			"game20": {
+				"gameID": "14431",
+				"time": "02:59",
+				"result": 7
+			}
+		}]
+	}]
 }
