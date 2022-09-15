@@ -15,7 +15,7 @@
 			"game3": {
 				"gameID": "10066",
 				"time": "12:12",
-				"result": 14
+				"result": 13
 			},
 			"game4": {
 				"gameID": "10442",
@@ -25,7 +25,7 @@
 			"game5": {
 				"gameID": "10322",
 				"time": "02:02",
-				"result": 3
+				"result": 2
 			},
 			"game6": {
 				"gameID": "14465",
@@ -40,7 +40,7 @@
 			"game8": {
 				"gameID": "14431",
 				"time": "02:59",
-				"result": 7
+				"result": 8
 			},
 			"game9": {
 				"gameID": "10522",
@@ -60,7 +60,7 @@
 			"game12": {
 				"gameID": "10334",
 				"time": "01:22",
-				"result": 21
+				"result": 24
 			},
 			"game13": {
 				"gameID": "10112",
