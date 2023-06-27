@@ -3,4 +3,8 @@ Pull Request 2
 Created Branch
 Pushed 1st Branch Change
 
+<<<<<<< HEAD
 Master changes
+=======
+Changes for 3way merge
+>>>>>>> test_Branch
